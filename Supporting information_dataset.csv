@@ -1,0 +1,249 @@
+Response,Indicator,Comparison,Enemies,Continent,NElserth America,SElseuth America,EurElsepe,Asia,Australia_Elseceania,Africa,Ecosystem,Focal species,Replicates,Method,Realism
+S,infest,Aliens in native vs. invad. range,Specialists,2,N.Am,Else,Else,Asia,Else,Else,Terrestrial,1,2,observational,Field
+Q,infest,Aliens in native vs. invad. range,NA,3,N.Am,Else,EU,Asia,Else,Else,Terrestrial,1,0,observational,Field
+S,infest,Aliens in native vs. invad. range,Specialists,2,Else,Else,EU,Asia,Else,Else,Terrestrial,1,21,observational,Field
+I,infest,Aliens in native vs. invad. range,NA,4,N.Am,Else,Else,Asia,Au.Elsec,Africa,Terrestrial,1,6,observational,Field
+S,damage,Aliens in native vs. invad. range,NA,2,Else,Else,EU,Asia,Else,Else,Terrestrial,1,10,observational,Field
+S,infest,Aliens in native vs. invad. range,NA,3,N.Am,Else,EU,Asia,Else,Else,Aquatic,2,0,observational,Field
+S,damage,Aliens in native vs. invad. range,NA,2,Else,Else,EU,Asia,Else,Else,Terrestrial,1,4,observational,Field
+S,perform,Aliens in native vs. invad. range,NA,2,Else,Else,EU,Asia,Else,Else,Terrestrial,1,4,observational,Field
+Q,infest,Aliens vs. natives,NA,1,Else,Else,Else,Asia,Else,Else,Terrestrial,1,1,observational,Field
+S,damage,Aliens vs. natives,NA,1,Else,Else,Else,Asia,Else,Else,Terrestrial,49,1,observational,Field
+S,infest,Aliens in native vs. invad. range,NA,6,N.Am,S.Am,EU,Asia,Au.Elsec,Africa,Terrestrial,1,58,observational,Field
+Q,perform,Aliens with vs. without enemies,NA,1,Else,Else,Else,Asia,Else,Else,Terrestrial,1,12,experimental,Enclosure
+S,damage,Aliens vs. natives,NA,1,Else,Else,Else,Asia,Else,Else,Terrestrial,1,4,observational,Enclosure
+Q,damage,Aliens vs. natives,Generalists,2,Else,Else,EU,Asia,Else,Else,Terrestrial,168,8,observational,Enclosure
+S,damage,Aliens vs. natives,Specialists,2,Else,Else,EU,Asia,Else,Else,Terrestrial,168,5,observational,Enclosure
+S,damage,Aliens in native vs. invad. range,NA,2,Else,Else,EU,Asia,Else,Else,Terrestrial,1,8,observational,Field
+S,infest,Aliens in native vs. invad. range,NA,2,Else,Else,EU,Asia,Else,Else,Terrestrial,1,8,observational,Field
+Q,infest,Aliens in native vs. invad. range,NA,2,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,0,observational,Field
+Q,infest,Aliens in native vs. invad. range,Specialists,2,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,0,observational,Field
+S,damage,Aliens in native vs. invad. range,NA,2,Else,Else,EU,Asia,Else,Else,Terrestrial,1,2,observational,Field
+S,infest,Aliens vs. natives,NA,2,Else,Else,EU,Asia,Else,Else,Terrestrial,47,2,observational,Field
+S,damage,Aliens vs. natives,NA,2,Else,Else,EU,Asia,Else,Else,Terrestrial,47,2,observational,Field
+S,infest,Aliens in native vs. invad. range,NA,2,Else,Else,EU,Asia,Else,Else,Terrestrial,12,2,observational,Field
+S,damage,Aliens in native vs. invad. range,NA,2,Else,Else,EU,Asia,Else,Else,Terrestrial,12,2,observational,Field
+S,damage,Aliens vs. natives,NA,1,Else,Else,Else,Asia,Else,Else,Terrestrial,116,1,observational,Enclosure
+S,infest,Aliens vs. natives,NA,1,Else,Else,Else,Asia,Else,Else,Terrestrial,116,1,observational,Enclosure
+S,damage,Aliens in native vs. invad. range,NA,2,Else,S.Am,Else,Asia,Else,Else,Terrestrial,1,6,observational,Field
+S,infest,Aliens in native vs. invad. range,NA,2,Else,Else,EU,Else,Au.Elsec,Else,Terrestrial,1,10,observational,Field
+Q,infest,Aliens in native vs. invad. range,Generalists,2,Else,Else,EU,Else,Au.Elsec,Else,Terrestrial,1,10,observational,Field
+S,infest,Aliens in native vs. invad. range,Specialists,2,Else,Else,EU,Else,Au.Elsec,Else,Terrestrial,1,10,observational,Field
+Q,perform,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,15,19,experimental,Enclosure
+Q,perform,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,21,6,experimental,Enclosure
+S,infest,Aliens in native vs. invad. range,NA,2,Else,Else,EU,Else,Au.Elsec,Else,Terrestrial,13,3,observational,Field
+Q,damage,Aliens vs. natives,NA,1,Else,Else,Else,Else,Au.Elsec,Else,Terrestrial,2,2,observational,Field
+Q,damage,Aliens in native vs. invad. range,NA,4,N.Am,Else,EU,Else,Au.Elsec,Africa,Aquatic,1,4,observational,Field
+S,infest,Aliens in native vs. invad. range,NA,4,N.Am,Else,EU,Else,Au.Elsec,Africa,Aquatic,1,4,observational,Field
+S,damage,Aliens in native vs. invad. range,NA,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,1,36,observational,Field
+Q,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,15,15,experimental,Enclosure
+S,infest,Aliens in native vs. invad. range,NA,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,1,16,experimental,Lab
+Q,perform,Aliens with vs. without enemies,NA,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,1,16,experimental,Lab
+Q,infest,Aliens vs. natives,NA,1,Else,Else,EU,Else,Else,Else,Terrestrial,41,20,observational,Field
+S,infest,Aliens in native vs. invad. range,NA,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,473,0,observational,Field
+S,perform,Aliens in native vs. invad. range,NA,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,1,12,experimental,Lab
+S,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,45,experimental,Enclosure
+Q,perform,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,45,experimental,Enclosure
+I,damage,Aliens in native vs. invad. range,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,78,experimental,Enclosure
+I,perform,Aliens in native vs. invad. range,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,78,experimental,Enclosure
+S,damage,Aliens vs. natives,NA,1,Else,Else,Else,Else,Else,Africa,Terrestrial,10,3,observational,Field
+I,infest,Aliens vs. natives,NA,1,Else,Else,Else,Else,Else,Africa,Terrestrial,1,8,observational,Field
+S,infest,Aliens in native vs. invad. range,NA,2,Else,Else,EU,Else,Else,Africa,Terrestrial,1,18,observational,Field
+I,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,15,15,experimental,Enclosure
+I,infest,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,15,15,experimental,Enclosure
+S,damage,Invasive vs. non-invasive aliens,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,9,2,observational,Field
+S,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,39,2,observational,Field
+S,damage,Aliens in native vs. invad. range,NA,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,1,14,observational,Field
+Q,infest,Aliens in native vs. invad. range,NA,4,N.Am,Else,EU,Else,Au.Elsec,Africa,Terrestrial,1,20,observational,Field
+I,infest,Aliens in native vs. invad. range,Specialists,4,N.Am,Else,EU,Else,Au.Elsec,Africa,Terrestrial,1,20,observational,Field
+S,damage,Aliens in native vs. invad. range,NA,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,1,25,observational,Field
+Q,infest,Aliens in native vs. invad. range,NA,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,1,18,observational,Field
+Q,infest,Aliens in native vs. invad. range,Generalists,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,1,18,observational,Field
+S,infest,Aliens in native vs. invad. range,Specialists,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,1,18,observational,Field
+I,infest,Aliens vs. natives,NA,1,Else,Else,Else,Else,Au.Elsec,Else,Aquatic,1,6,observational,Field
+S,infest,Aliens vs. natives,NA,1,Else,Else,EU,Else,Else,Else,Aquatic,2,2,observational,Field
+S,damage,Aliens in native vs. invad. range,NA,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,1,3,experimental,Enclosure
+Q,infest,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,4,2,observational,Field
+S,infest,Aliens vs. natives,Specialists,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,4,2,observational,Field
+Q,infest,Invasive vs. non-invasive aliens,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,2,observational,Field
+Q,infest,Invasive vs. non-invasive aliens,Specialists,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,2,observational,Field
+S,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,15,experimental,Enclosure
+S,infest,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,15,experimental,Enclosure
+Q,perform,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,15,experimental,Enclosure
+S,infest,Aliens vs. natives,NA,1,Else,Else,EU,Else,Else,Else,Aquatic,1,3,observational,Field
+S,infest,Aliens in native vs. invad. range,NA,1,Else,Else,EU,Else,Else,Else,Aquatic,1,3,observational,Field
+I,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,5,30,experimental,Enclosure
+I,perform,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,5,30,experimental,Enclosure
+S,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,4,2,observational,Field
+S,damage,Aliens vs. natives,Specialists,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,4,2,observational,Field
+Q,damage,Invasive vs. non-invasive aliens,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,2,observational,Field
+Q,damage,Invasive vs. non-invasive aliens,Specialists,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,2,observational,Field
+Q,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,3,experimental,Enclosure
+Q,perform,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,3,experimental,Enclosure
+I,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,8,130,experimental,Enclosure
+Q,infest,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,8,130,experimental,Enclosure
+Q,damage,Invasive vs. non-invasive aliens,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,2,130,experimental,Enclosure
+Q,infest,Invasive vs. non-invasive aliens,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,2,130,experimental,Enclosure
+Q,perform,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,8,130,experimental,Enclosure
+S,perform,Aliens vs. natives,NA,1,Else,Else,Else,Else,Else,Africa,Terrestrial,1,5,experimental,Lab
+Q,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,8,6,experimental,Enclosure
+Q,perform,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,8,6,experimental,Enclosure
+Q,damage,Invasive vs. non-invasive aliens,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,4,6,experimental,Enclosure
+Q,perform,Invasive vs. non-invasive aliens,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,4,6,experimental,Enclosure
+S,infest,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Aquatic,1,62,observational,Field
+S,infest,Aliens vs. natives,NA,1,Else,Else,Else,Else,Else,Africa,Aquatic,1,17,observational,Field
+S,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,7,1,observational,Field
+S,damage,Invasive vs. non-invasive aliens,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,3,20,experimental,Enclosure
+I,perform,Aliens vs. natives,Generalists,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,3,8,experimental,Enclosure
+S,damage,Aliens vs. natives,NA,1,Else,Else,EU,Else,Else,Else,Terrestrial,1,45,observational,Field
+Q,infest,Aliens vs. natives,NA,1,Else,Else,EU,Else,Else,Else,Terrestrial,1,45,observational,Field
+I,infest,Aliens in native vs. invad. range,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,8,observational,Field
+S,infest,Aliens vs. natives,NA,1,Else,Else,Else,Else,Au.Elsec,Else,Aquatic,1,4,observational,Field
+Q,perform,Aliens vs. natives,NA,1,Else,Else,Else,Else,Au.Elsec,Else,Aquatic,1,4,observational,Field
+S,infest,Aliens vs. natives,NA,1,Else,Else,Else,Else,Else,Africa,Terrestrial,9,3,observational,Field
+Q,damage,Aliens vs. natives,NA,1,Else,Else,Else,Else,Au.Elsec,Else,Terrestrial,2,30,experimental,Enclosure
+Q,infest,Aliens vs. natives,Specialists,1,Else,Else,Else,Else,Au.Elsec,Else,Terrestrial,6,7,observational,Field
+S,damage,Aliens vs. natives,NA,1,Else,Else,Else,Else,Au.Elsec,Else,Terrestrial,1,6,observational,Field
+S,infest,Aliens vs. natives,NA,1,Else,Else,Else,Else,Au.Elsec,Else,Terrestrial,1,3,observational,Field
+I,infest,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,30,10,experimental,Enclosure
+Q,infest,Aliens vs. natives,Generalists,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,30,10,experimental,Enclosure
+Q,infest,Aliens vs. natives,Specialists,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,30,10,experimental,Enclosure
+S,damage,Aliens in native vs. invad. range,NA,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,1,21,observational,Field
+S,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,6,observational,Field
+S,infest,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,6,observational,Field
+I,infest,Aliens vs. natives,NA,1,Else,Else,EU,Else,Else,Else,Aquatic,1,5,observational,Field
+S,perform,Aliens with vs. without enemies,Generalists,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,3,400,experimental,Enclosure
+S,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,15,experimental,Field
+I,perform,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,15,experimental,Field
+Q,damage,Aliens vs. natives,Generalists,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,6,20,experimental,Enclosure
+Q,perform,Aliens vs. natives,Generalists,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,3,20,experimental,Enclosure
+Q,perform,Aliens in native vs. invad. range,NA,2,Else,S.Am,Else,Else,Else,Africa,Terrestrial,1,6,experimental,Lab
+S,perform,Aliens in native vs. invad. range,NA,2,Else,Else,EU,Else,Else,Africa,Terrestrial,2,5,experimental,Lab
+S,infest,Aliens in native vs. invad. range,NA,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,140,0,observational,Field
+S,perform,Aliens in native vs. invad. range,NA,1,N.Am,Else,Else,Else,Else,Else,Aquatic,4,20,experimental,Enclosure
+S,infest,Aliens in native vs. invad. range,NA,2,N.Am,Else,Else,Else,Au.Elsec,Else,Aquatic,1,2,observational,Field
+S,infest,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,4,observational,Field
+S,damage,Aliens in native vs. invad. range,NA,2,Else,Else,EU,Else,Au.Elsec,Else,Terrestrial,1,13,observational,Field
+Q,perform,Aliens in native vs. invad. range,NA,2,Else,Else,EU,Else,Au.Elsec,Else,Terrestrial,1,13,observational,Field
+Q,perform,Aliens vs. natives,NA,1,Else,Else,EU,Else,Else,Else,Terrestrial,6,135,experimental,Enclosure
+Q,damage,Aliens vs. natives,NA,1,Else,S.Am,Else,Else,Else,Else,Terrestrial,1,1,observational,Field
+I,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,19,1,observational,Field
+Q,perform,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Aquatic,1,96,experimental,Enclosure
+Q,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,1,observational,Field
+S,damage,Aliens vs. natives,Specialists,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,1,observational,Field
+S,infest,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,1,observational,Field
+S,infest,Aliens vs. natives,NA,1,Else,Else,EU,Else,Else,Else,Terrestrial,3,4,experimental,Enclosure
+I,perform,Aliens vs. natives,NA,1,Else,Else,EU,Else,Else,Else,Terrestrial,3,4,experimental,Enclosure
+S,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,15,1,observational,Field
+Q,infest,Aliens vs. natives,NA,1,Else,Else,EU,Else,Else,Else,Terrestrial,1,2,observational,Field
+S,infest,Aliens vs. natives,NA,1,Else,S.Am,Else,Else,Else,Else,Terrestrial,1,3,observational,Field
+Q,perform,Aliens with vs. without enemies,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,16,experimental,Enclosure
+S,infest,Aliens in native vs. invad. range,NA,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,1,17,observational,Field
+S,perform,Aliens with vs. without enemies,NA,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,1,3,experimental,Lab
+S,infest,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Aquatic,1,5,observational,Field
+S,perform,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Aquatic,1,5,observational,Field
+Q,infest,Aliens in native vs. invad. range,NA,2,N.Am,Else,EU,Else,Else,Else,Aquatic,1,21,observational,Field
+I,perform,Aliens in native vs. invad. range,NA,2,N.Am,Else,Else,Else,Au.Elsec,Else,Terrestrial,1,6,experimental,Enclosure
+Q,damage,Aliens in native vs. invad. range,NA,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,1,2,observational,Enclosure
+I,perform,Aliens in native vs. invad. range,NA,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,1,2,experimental,Enclosure
+S,perform,Aliens in native vs. invad. range,NA,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,1,10,experimental,Enclosure
+I,perform,Aliens in native vs. invad. range,NA,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,1,6,experimental,Enclosure
+Q,perform,Invasive vs. non-invasive aliens,NA,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,1,6,experimental,Enclosure
+I,perform,Aliens in native vs. invad. range,NA,2,Else,Else,EU,Else,Au.Elsec,Else,Terrestrial,1,8,experimental,Enclosure
+I,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,14,1,observational,Field
+S,perform,Aliens vs. natives,Generalists,1,Else,Else,Else,Else,Au.Elsec,Else,Terrestrial,20,1,experimental,Enclosure
+Q,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,1,experimental,Enclosure
+S,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,1,observational,Field
+S,damage,Aliens in native vs. invad. range,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,18,experimental,Enclosure
+I,perform,Aliens vs. natives,Generalists,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,4,10,experimental,Enclosure
+Q,perform,Invasive vs. non-invasive aliens,Generalists,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,10,experimental,Enclosure
+Q,damage,Aliens in native vs. invad. range,NA,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,1,4,observational,Enclosure
+S,perform,Aliens in native vs. invad. range,NA,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,1,12,experimental,Enclosure
+I,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,9,5,observational,Field
+I,damage,Invasive vs. non-invasive aliens,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,4,5,observational,Field
+Q,perform,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,3,1,experimental,Enclosure
+S,damage,Aliens in native vs. invad. range,NA,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,1,30,observational,Field
+I,infest,Aliens in native vs. invad. range,NA,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,1,30,observational,Field
+Q,infest,Aliens vs. natives,NA,1,Else,Else,Else,Else,Au.Elsec,Else,Aquatic,1,1,observational,Field
+Q,infest,Aliens vs. natives,Generalists,1,Else,Else,Else,Else,Au.Elsec,Else,Aquatic,1,1,observational,Field
+Q,infest,Aliens vs. natives,Specialists,1,Else,Else,Else,Else,Au.Elsec,Else,Aquatic,1,1,observational,Field
+S,infest,Aliens in native vs. invad. range,NA,1,N.Am,Else,Else,Else,Else,Else,Aquatic,2,3,observational,Field
+S,infest,Aliens vs. natives,NA,1,Else,Else,EU,Else,Else,Else,Terrestrial,2,3,observational,Field
+S,infest,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Aquatic,1,3,observational,Field
+Q,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,101,24,observational,Field
+Q,perform,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,3,15,experimental,Enclosure
+I,damage,Aliens in native vs. invad. range,NA,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,1,31,observational,Field
+S,infest,Aliens in native vs. invad. range,Specialists,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,1,31,observational,Field
+S,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,3,1,observational,Field
+Q,damage,Invasive vs. non-invasive aliens,NA,0,Else,Else,Else,Else,Else,Else,Terrestrial,11,1,observational,Field
+Q,damage,Aliens vs. natives,NA,1,Else,S.Am,Else,Else,Else,Else,Terrestrial,5,1,observational,Field
+Q,infest,Aliens vs. natives,NA,1,Else,S.Am,Else,Else,Else,Else,Terrestrial,5,1,observational,Field
+Q,perform,Aliens vs. natives,NA,1,Else,S.Am,Else,Else,Else,Else,Terrestrial,3,10,experimental,Enclosure
+Q,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,1,observational,Enclosure
+Q,perform,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,5,experimental,Enclosure
+Q,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,1,observational,Field
+Q,perform,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,6,experimental,Enclosure
+I,infest,Aliens vs. natives,NA,1,Else,S.Am,Else,Else,Else,Else,Aquatic,1,1,observational,Field
+Q,infest,Aliens in native vs. invad. range,NA,1,Else,S.Am,Else,Else,Else,Else,Aquatic,1,1,observational,Field
+S,perform,Aliens in native vs. invad. range,NA,1,Else,S.Am,Else,Else,Else,Else,Aquatic,1,1,observational,Field
+S,infest,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,6,4,experimental,Enclosure
+S,damage,Aliens in native vs. invad. range,NA,1,Else,Else,Else,Else,Else,Africa,Terrestrial,1,31,observational,Field
+Q,damage,Aliens vs. natives,NA,1,Else,Else,EU,Else,Else,Else,Terrestrial,12,28,observational,Field
+Q,damage,Aliens vs. natives,NA,1,Else,Else,Else,Else,Au.Elsec,Else,Terrestrial,1,12,observational,Field
+Q,infest,Aliens vs. natives,NA,1,Else,Else,Else,Else,Au.Elsec,Else,Terrestrial,1,12,observational,Field
+S,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,2,observational,Field
+Q,damage,Aliens in native vs. invad. range,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,1,observational,Field
+Q,damage,Aliens in native vs. invad. range,NA,2,Else,Else,EU,Else,Else,Africa,Aquatic,1,4,observational,Field
+S,infest,Aliens in native vs. invad. range,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,10,observational,Field
+Q,perform,Aliens in native vs. invad. range,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,5,experimental,Enclosure
+I,damage,Aliens in native vs. invad. range,NA,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,3,21,observational,Field
+Q,infest,Aliens vs. natives,NA,1,Else,Else,Else,Else,Else,Africa,Terrestrial,1,5,observational,Field
+I,infest,Aliens vs. natives,NA,1,Else,Else,EU,Else,Else,Else,Terrestrial,2,6,observational,Field
+S,infest,Aliens vs. natives,NA,1,Else,Else,EU,Else,Else,Else,Terrestrial,1,5,observational,Field
+S,infest,Aliens vs. natives,NA,1,Else,Else,EU,Else,Else,Else,Terrestrial,1,39,experimental,Enclosure
+Q,perform,Aliens vs. natives,NA,1,Else,Else,EU,Else,Else,Else,Terrestrial,15,8,experimental,Enclosure
+Q,perform,Invasive vs. non-invasive aliens,NA,1,Else,Else,EU,Else,Else,Else,Terrestrial,7,8,experimental,Enclosure
+I,damage,Aliens vs. natives,NA,1,Else,Else,EU,Else,Else,Else,Terrestrial,15,8,experimental,Enclosure
+Q,damage,Invasive vs. non-invasive aliens,NA,1,Else,Else,EU,Else,Else,Else,Terrestrial,7,8,experimental,Enclosure
+Q,infest,Aliens vs. natives,NA,1,Else,Else,EU,Else,Else,Else,Terrestrial,1,5,observational,Field
+Q,perform,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,16,experimental,Enclosure
+I,infest,Aliens in native vs. invad. range,NA,1,Else,Else,EU,Else,Else,Else,Aquatic,4,6,observational,Field
+Q,infest,Aliens in native vs. invad. range,NA,3,Else,S.Am,EU,Else,Au.Elsec,Else,Terrestrial,1,21,observational,Field
+I,perform,Aliens in native vs. invad. range,NA,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,6,10,experimental,Lab
+Q,damage,Aliens vs. natives,NA,1,Else,Else,EU,Else,Else,Else,Terrestrial,18,42,experimental,Enclosure
+S,infest,Aliens in native vs. invad. range,NA,1,Else,Else,EU,Else,Else,Else,Terrestrial,1,0,observational,Field
+I,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,5,1,observational,Field
+Q,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,36,experimental,Enclosure
+Q,perform,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,36,experimental,Enclosure
+Q,damage,Invasive vs. non-invasive aliens,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,36,experimental,Enclosure
+Q,perform,Invasive vs. non-invasive aliens,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,36,experimental,Enclosure
+S,infest,Aliens in native vs. invad. range,NA,1,Else,Else,EU,Else,Else,Else,Aquatic,1,0,observational,Field
+I,infest,Aliens vs. natives,NA,1,Else,Else,Else,Else,Au.Elsec,Else,Terrestrial,1,5,observational,Field
+I,infest,Aliens in native vs. invad. range,NA,1,Else,Else,Else,Else,Au.Elsec,Else,Terrestrial,1,0,observational,Field
+S,infest,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,142,experimental,Enclosure
+S,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,142,experimental,Enclosure
+S,damage,Aliens vs. natives,NA,1,Else,Else,Else,Else,Au.Elsec,Else,Terrestrial,1,3,observational,Field
+Q,infest,Aliens vs. natives,NA,1,Else,Else,Else,Else,Au.Elsec,Else,Terrestrial,1,3,observational,Field
+Q,damage,Invasive vs. non-invasive aliens,NA,1,Else,Else,Else,Else,Au.Elsec,Else,Terrestrial,1,3,observational,Field
+Q,infest,Invasive vs. non-invasive aliens,NA,1,Else,Else,Else,Else,Au.Elsec,Else,Terrestrial,1,3,observational,Field
+I,infest,Aliens vs. natives,NA,1,Else,Else,EU,Else,Else,Else,Aquatic,1,1,observational,Field
+Q,infest,Aliens vs. natives,NA,1,Else,Else,EU,Else,Else,Else,Aquatic,1,32,observational,Field
+Q,infest,Aliens vs. natives,NA,1,Else,Else,EU,Else,Else,Else,Aquatic,1,14,observational,Field
+Q,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,36,5,experimental,Exclosure
+Q,damage,Invasive vs. non-invasive aliens,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,11,5,experimental,Exclosure
+S,infest,Aliens in native vs. invad. range,NA,1,Else,Else,EU,Else,Else,Else,Aquatic,7,0,observational,Field
+S,damage,Aliens in native vs. invad. range,NA,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,1,14,observational,Field
+I,infest,Aliens vs. natives,NA,1,Else,Else,Else,Else,Else,Africa,Terrestrial,1,6,observational,Field
+Q,damage,Aliens in native vs. invad. range,NA,1,Else,Else,Else,Else,Au.Elsec,Else,Terrestrial,3,5,observational,Field
+Q,damage,Invasive vs. non-invasive aliens,NA,1,Else,Else,Else,Else,Au.Elsec,Else,Terrestrial,1,5,observational,Field
+Q,infest,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,1,6,observational,Field
+S,damage,Aliens in native vs. invad. range,NA,2,Else,Else,EU,Else,Au.Elsec,Else,Terrestrial,2,7,observational,Field
+S,infest,Aliens in native vs. invad. range,NA,2,Else,Else,Else,Else,Au.Elsec,Africa,Aquatic,1,5,observational,Field
+Q,perform,Aliens vs. natives,Generalists,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,17,18,experimental,Enclosure
+I,infest,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Aquatic,1,8,observational,Field
+S,infest,Aliens vs. natives,NA,1,Else,Else,EU,Else,Else,Else,Terrestrial,927,1,observational,Enclosure
+Q,perform,Aliens vs. natives,NA,1,Else,Else,EU,Else,Else,Else,Terrestrial,10,60,experimental,Enclosure
+I,infest,Aliens in native vs. invad. range,NA,1,Else,Else,EU,Else,Else,Else,Aquatic,1,10,observational,Field
+I,infest,Aliens vs. natives,NA,1,Else,Else,EU,Else,Else,Else,Terrestrial,1,1,observational,Field
+S,damage,Aliens in native vs. invad. range,NA,2,N.Am,Else,EU,Else,Else,Else,Terrestrial,1,31,observational,Field
+S,damage,Aliens vs. natives,NA,1,N.Am,Else,Else,Else,Else,Else,Terrestrial,3,1,observational,Field
